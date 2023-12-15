@@ -19,11 +19,6 @@ section {
     background-color: grey;
 }
 
-.container{
-    max-width:960px;
-    margin:0 auto;
-}
-
 h3 {
     position: absolute;
     top: 0;
@@ -35,21 +30,6 @@ h3 {
     border-bottom: 2px solid black;
     padding: 3px;
 }
-
-.header-left{
-    background-color:pink;
-    color:black;
-}
-
-.header-center{
-    background-color:red;
-    color:white;
-}
-.header-right{
-    background-color:yellow;
-    color:black;
-}
-
 
 .desktop {
     width: 31%;
